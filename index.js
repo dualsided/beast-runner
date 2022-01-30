@@ -167,7 +167,7 @@
             PTERODACTYL: { x: 134, y: 2 },
             RESTART: { x: 2, y: 2 },
             TEXT_SPRITE: { x: 655, y: 2 },
-            TREX: { x: 848, y: 2 },
+            TREX: { x: 860, y: 0 },
             STAR: { x: 645, y: 2 }
         },
         HDPI: {
@@ -1525,7 +1525,7 @@
     Trex.config = {
         DROP_VELOCITY: -5,
         GRAVITY: 0.6,
-        HEIGHT: 47,
+        HEIGHT: 53,
         HEIGHT_DUCK: 25,
         INIITAL_JUMP_VELOCITY: -10,
         INTRO_DURATION: 1500,
@@ -1534,7 +1534,7 @@
         SPEED_DROP_COEFFICIENT: 3,
         SPRITE_WIDTH: 262,
         START_X_POS: 50,
-        WIDTH: 44,
+        WIDTH: 43,
         WIDTH_DUCK: 59
     };
 
