@@ -1534,7 +1534,7 @@
         SPEED_DROP_COEFFICIENT: 3,
         SPRITE_WIDTH: 262,
         START_X_POS: 50,
-        WIDTH: 33,
+        WIDTH: 43,
         WIDTH_DUCK: 59
     };
 
